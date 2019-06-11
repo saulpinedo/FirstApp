@@ -1,0 +1,6 @@
+<h1> Issues </h1>
+
+<b>how can i reply the issue?</b>
+...
+<b>in what version of the app?</b>
+...
